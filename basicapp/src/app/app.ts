@@ -15,5 +15,5 @@ export class App {
   location: string = "Puducherry";
   college: string = "MVIT";
   Attendance: boolean = true;
-  batchno: number = 67;
+  batchno: number = 66;
 }
