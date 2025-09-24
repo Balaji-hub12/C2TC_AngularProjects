@@ -11,7 +11,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrls: ['./app.css']
 })
 export class App {
-  studentName: string = "Harshitha K R";
+  studentName: string = "Balaji P";
   location: string = "Puducherry";
   college: string = "MVIT";
   Attendance: boolean = true;
